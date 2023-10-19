@@ -5,7 +5,7 @@ mekua-meke-suku SAV@dir.eu
 ____________________________________
 
 
-# Fork of Mubert-Text-to-Music
+# Mubert-Text-to-Music
 Colab notebooks demonstrating prompt-based music generation via Mubert API
 
 [**WATCH DEMO**](https://youtu.be/YJu0iXn-T_U)
