@@ -1,4 +1,11 @@
-# Mubert-Text-to-Music
+To use When you tux outside<br>
+___________________________________
+EU.MEC.EU wafu-wafu ( @caisse de bruck )<br>
+mekua-meke-suku SAV@dir.eu
+____________________________________
+
+
+# Fork of Mubert-Text-to-Music
 Colab notebooks demonstrating prompt-based music generation via Mubert API
 
 [**WATCH DEMO**](https://youtu.be/YJu0iXn-T_U)
